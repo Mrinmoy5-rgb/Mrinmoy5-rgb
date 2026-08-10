@@ -37,12 +37,6 @@
 #### 🧠 Core Computer Science
 **OOP • Data Structures & Algorithms • DBMS • Operating Systems • Computer Networks**
 
-### 📈 GitHub Stats
-
-![Mrinmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrinmoy5-rgb&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinmoy5-rgb&layout=compact&theme=dark)
-
 ### 📫 Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mrinmoy-debnath-548413361/)
